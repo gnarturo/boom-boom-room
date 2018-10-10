@@ -1,0 +1,13 @@
+{
+  "name": "boom-boom-room-server",
+  "version": "0.0.1",
+  "description": "Tiny conference room and hot-desk coordinator",
+  "author": "Arturo Robles <arturo.robles@projekt202.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
